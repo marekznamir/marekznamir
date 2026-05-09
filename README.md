@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**marekznamir/marekznamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Marek! 👋
+
+I'm a polish student, studying Computer Science at Silesian University of Technology. 
+
+## 🚀 About Me
+
+I really enjoy working in embedded systems and C++, sometimes C.
+
+Im currently working on creating a device for Kart/Racecar drivers, where user can see his laptimes and delta to previous best laptime. The data comes from a GPS module, and the interface is displayed on an LCD screen. 
+
+🔗 https://github.com/marekznamir/GPSTimeLoggerAlgorithm
+
+## 🛠️ My previous projects
+SensorLapTimer - https://github.com/marekznamir/SensorTimeLogger
+AI Chess Engine API -
+
+
