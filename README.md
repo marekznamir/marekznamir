@@ -16,6 +16,6 @@ Im currently working on creating a device for Kart/Racecar drivers, where user c
 ## 🛠️ My previous projects
 [SensorTimeLogger](https://github.com/marekznamir/SensorTimeLogger)
 
-[AI Chess Engine API]()
+[AI Chess Engine]()
 
 
